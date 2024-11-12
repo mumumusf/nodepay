@@ -14,7 +14,7 @@
 1. 克隆代码仓库：
 
     ```bash
-    git clone https://github.com/ziqing888/nodepay.git
+    git clone https://github.com/mumumusf/nodepay.git
     cd nodepay
     ```
 
@@ -33,7 +33,7 @@
 获取您的 Bearer 令牌：
 
 1. **注册 Nodepay 账号**：
-   - 前往 [Nodepay 注册页面](https://app.nodepay.ai/register?ref=hLVdUdlJd0R87RY) 注册账号。
+   - 前往 [Nodepay 注册页面](https://app.nodepay.ai/register?ref=2ibxjjARyKoCRnf)) 注册账号。
 
 2. **获取令牌**：
    - 在浏览器中打开 **开发者工具**（右键 > 检查 或 按 `Ctrl+Shift+I`）。
